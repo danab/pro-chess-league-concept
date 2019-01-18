@@ -1,0 +1,50 @@
+[
+	{
+		"team": "STL",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/StLouis_ArchBishops.png",
+		"points": 41.5,
+		"last": 11
+	},
+	{
+		"team": "MCB",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/Montreal_Chessbrahs.png",
+		"points": 41.5,
+		"last": 11
+	},
+	{
+		"team": "NYM",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/NewYork_Marshalls.png",
+		"points": 38,
+		"last": 9
+	},
+	{
+		"team": "MCS",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/Montclair_Sopranos.png",
+		"points": 25.5,
+		"last": 8.5
+	},
+	{
+		"team": "WWM",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/Webster_Windmills.png",
+		"points": 24.5,
+		"last": 5
+	},
+	{
+		"team": "LOL",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/London_Lions.png",
+		"points": 13,
+		"last": 7.5
+	},
+	{
+		"team": "PPG",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/Pittsburg_Pawngrabbers.png",
+		"points": 12.5,
+		"last": 7
+	},
+	{
+		"team": "MIA",
+		"img": "https://images.chesscomfiles.com/uploads/content/logos/Miami_Champions.png",
+		"points": 11.5,
+		"last": 5
+	}
+]

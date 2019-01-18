@@ -1,0 +1,13 @@
+// Navbar styling
+$navbar-background-color: #173744;
+$navbar-item-color: white;
+$navbar-item-active-color: hsl(217,71%,53%);
+$navbar-item-active-background-color: white;
+
+// Footer Styling
+$footer-padding: 3rem 1.5rem 1rem;
+@import "~bulma/bulma";
+
+section.section {
+	min-height: 70vh;
+}
