@@ -1,29 +1,11 @@
-# pro-chess-league
+# Pro Chess League x Vue
 
-## Project setup
-```
-yarn install
-```
+Reimagining (a small portion) of the Pro Chess League site while learning the basics of Vue.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Demo
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+View the [demo](https://pcl-concept-2019.netlify.com/)
 
-### Run your tests
-```
-yarn run test
-```
+## Disclaimer
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I'm not associated with the Pro Chess League, Chess.com, etc.
